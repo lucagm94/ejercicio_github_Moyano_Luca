@@ -1,3 +1,4 @@
 - "Ey, ¿Cómo te llamas?"
 - "Que loco esta el clima..." 
 - "¿Te gustan los panchos?"
+ ["dialogoNPC-NO"] 
