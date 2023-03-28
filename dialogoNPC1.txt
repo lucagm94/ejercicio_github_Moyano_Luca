@@ -1,4 +1,4 @@
-- "Ey, ¿Cómo te llamas?"
+- "Ey, ï¿½Cï¿½mo te llamas?"
 - "Que loco esta el clima..." 
-- "¿Te gustan los panchos?"
-["dialogoNPC-SI"] 
+- "ï¿½Te gustan los panchos?"
+["dialogoNPC-SI", "dialogoNPC-NO"] 
